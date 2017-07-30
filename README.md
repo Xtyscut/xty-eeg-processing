@@ -1,1 +1,1 @@
-# xty-eeg-processing
+# eeg-processing
